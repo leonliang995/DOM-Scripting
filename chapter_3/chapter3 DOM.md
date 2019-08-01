@@ -8,7 +8,7 @@
 这五个方法在平时写代码十分常用，尤其是前三个，一般都十分了解。
 
 有意思的是setAttribute这个方法，之前接触的比较少。这里有一个值得关注的细节：使用setAttribute对DOM元素属性修改。
-```
+```javascript
  var paras=document.getElementsByTagName("p");
     for (var i=0;i<paras.length;i++){
       var title_text=paras[i].getAttribute("title");
