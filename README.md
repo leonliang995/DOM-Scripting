@@ -1,4 +1,4 @@
-# JavaScript-DOM----
+# 《JavaScript DOM编程艺术》读书笔记
 js dom编程艺术重点知识点和代码记录
 
 源代码在各章的文件夹里，均是本人手敲。
